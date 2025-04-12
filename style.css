@@ -1,0 +1,21 @@
+h1{
+color :red;
+}
+
+button{
+
+    background-color: rgb(255, 89, 0);
+    border: none;
+    border-radius: 0.8rem; 
+    cursor: pointer;
+}
+body{
+    background-color: rgb(255, 200, 0);
+}
+.heading{
+    color : #ff0000;
+}
+a{
+  text-decoration:red line-through;
+  color: white;
+}
